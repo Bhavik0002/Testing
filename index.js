@@ -7,4 +7,4 @@ let index = 3;
 
 // console.log(a.fill(3));
 // console.log(a.fill(2,1));
-console.log(a.fill(9,3,10));
+// console.log(a.fill(9,3,10));
